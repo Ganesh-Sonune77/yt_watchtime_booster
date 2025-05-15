@@ -41,7 +41,7 @@ Setup Instructions
 
 
 
-git clone https://github.com/Ganesh-Sonune77/yt-watchtime-booster
+git clone https://github.com/Ganesh-Sonune77/yt-watchtime-booster.git
 cd yt-watchtime-booster
 
 2. Install Python packages:
